@@ -10,6 +10,11 @@ Here are some resources for teaching web and UX concepts.
 
 3. [Mozilla Getting Started with Javascript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
+## W3 Schools resources:
+
+1. [W3Schools Getting Started with HTML](https://www.w3schools.com/html/default.asp)
+2. [W3Schools Getting Started with HTML]
+
 ## GitHub
 [GitHub's Introduction to HTML](https://lab.github.com/githubtraining/introduction-to-html)
 
